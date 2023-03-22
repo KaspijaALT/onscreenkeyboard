@@ -1,0 +1,5 @@
+C:\Users\kaspa\OneDrive\Dokumenti\gamedev\keyboardVS\x64\Debug\keyboardVS.vcxproj.AssemblyReference.cache
+C:\Users\kaspa\OneDrive\Dokumenti\gamedev\keyboardVS\x64\Debug\keyboardVS.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\kaspa\OneDrive\Dokumenti\gamedev\keyboardVS\x64\Debug\keyboardVS.exe
+C:\Users\kaspa\OneDrive\Dokumenti\gamedev\keyboardVS\x64\Debug\keyboardVS.MyForm.resources
+C:\Users\kaspa\OneDrive\Dokumenti\gamedev\keyboardVS\x64\Debug\keyboardVS.vcxproj.GenerateResource.cache
